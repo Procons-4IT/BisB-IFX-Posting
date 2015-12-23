@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s0:definitions xmlns:s1="http://www.openuri.org/" xmlns:s3="http://www.openuri.org/2006/12/wsdl/upgradedJWS" xmlns:s2="http://schemas.xmlsoap.org/wsdl/soap/" xmlns="" name="UBSWebserviceDefinitions" targetNamespace="http://www.openuri.org/" xmlns:s0="http://schemas.xmlsoap.org/wsdl/">
+  <s0:types>
+    <xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.openuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="getBackEndStoredProcedureCall">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="ifxMessage" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="getBackEndStoredProcedureCallResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="getBackEndStoredProcedureCallResult" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="adaptorService">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="ifxMessage" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="adaptorServiceResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="adaptorServiceResult" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="doIFX">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="ifxMessage" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="doIFXResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="doIFXResult" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+  </s0:types>
+  <s0:message name="getBackEndStoredProcedureCall">
+    <s0:part name="parameters" element="s1:getBackEndStoredProcedureCall" />
+  </s0:message>
+  <s0:message name="getBackEndStoredProcedureCallResponse">
+    <s0:part name="pamaters2" element="s1:getBackEndStoredProcedureCallResponse" />
+  </s0:message>
+  <s0:message name="adaptorService">
+    <s0:part name="parameters" element="s1:adaptorService" />
+  </s0:message>
+  <s0:message name="adaptorServiceResponse">
+    <s0:part name="pamaters1" element="s1:adaptorServiceResponse" />
+  </s0:message>
+  <s0:message name="doIFX">
+    <s0:part name="parameters" element="s1:doIFX" />
+  </s0:message>
+  <s0:message name="doIFXResponse">
+    <s0:part name="pamaters3" element="s1:doIFXResponse" />
+  </s0:message>
+  <s0:portType name="UBSWebservice">
+    <s0:operation name="getBackEndStoredProcedureCall" parameterOrder="parameters">
+      <s0:input message="s1:getBackEndStoredProcedureCall" />
+      <s0:output message="s1:getBackEndStoredProcedureCallResponse" />
+    </s0:operation>
+    <s0:operation name="adaptorService" parameterOrder="parameters">
+      <s0:input message="s1:adaptorService" />
+      <s0:output message="s1:adaptorServiceResponse" />
+    </s0:operation>
+    <s0:operation name="doIFX" parameterOrder="parameters">
+      <s0:input message="s1:doIFX" />
+      <s0:output message="s1:doIFXResponse" />
+    </s0:operation>
+  </s0:portType>
+  <s0:binding name="UBSWebserviceSoapBinding" type="s1:UBSWebservice">
+    <s2:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <s0:operation name="getBackEndStoredProcedureCall">
+      <s2:operation soapAction="getBackEndStoredProcedureCall" style="document" />
+      <s0:input>
+        <s2:body use="literal" parts="parameters" />
+      </s0:input>
+      <s0:output>
+        <s2:body use="literal" parts="pamaters2" />
+      </s0:output>
+    </s0:operation>
+    <s0:operation name="adaptorService">
+      <s2:operation soapAction="adaptorService" style="document" />
+      <s0:input>
+        <s2:body use="literal" parts="parameters" />
+      </s0:input>
+      <s0:output>
+        <s2:body use="literal" parts="pamaters1" />
+      </s0:output>
+    </s0:operation>
+    <s0:operation name="doIFX">
+      <s2:operation soapAction="doIFX" style="document" />
+      <s0:input>
+        <s2:body use="literal" parts="parameters" />
+      </s0:input>
+      <s0:output>
+        <s2:body use="literal" parts="pamaters3" />
+      </s0:output>
+    </s0:operation>
+  </s0:binding>
+  <s0:service name="UBSWebservice">
+    <s3:upgraded81 />
+    <s0:port name="UBSWebserviceSoapPort" binding="s1:UBSWebserviceSoapBinding">
+      <s2:address location="http://10.10.151.52:7001/UBSWebservice/UBSWebservice.jws" />
+    </s0:port>
+  </s0:service>
+</s0:definitions>

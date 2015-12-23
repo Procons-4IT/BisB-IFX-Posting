@@ -1,0 +1,16 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <Menu Checked="0" Enabled="1" FatherUID="43544" Position="2" String="Payroll Posting to IFX" Type="1" UniqueID="Z_mnu_IFX002" Image="">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="1536" Position="14" String="IFX Setup" Type="1" UniqueID="Z_mnu_IFX003" Image="">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="1536" Position="15" String="GFS Setup" Type="1" UniqueID="Z_mnu_IFX103" Image="">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="1536" Position="5" String="Journal Voucher Approval" Type="1" UniqueID="Z_mnu_JVApp" Image="">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="14848" Position="2" String="Journal Voucher Template" Type="1" UniqueID="Z_mnu_OJAT" Image="">
+      </Menu>
+    </action>
+  </Menus>
+</Application>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BisB Integration">
+</Property><Property Name="Solution File" Value="C:\20151007_BisB Inernal 1.0.39\BisB Integration.sln">
+</Property><Property Name="User Options File" Value="C:\20151007_BisB Inernal 1.0.39\BisB Integration.suo">
+</Property><Property Name="Date" Value="Wednesday, October 14, 2015">
+</Property><Property Name="Time" Value="12:14 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BisB Integration.sln" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\BisB Integration.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BisB Integration.suo" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\BisB Integration.suo">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="BisB Integration.vbproj" Description="Project file successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\BisB Integration.vbproj">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="BisB Integration.vbproj.user" Description="Project user file successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\BisB Integration.vbproj.user">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Base Classes\clsBase.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Base Classes\clsBase.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Base Classes\clsListener.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Base Classes\clsListener.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Base Classes\clsLog_Error.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Base Classes\clsLog_Error.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Base Classes\clsStart.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Base Classes\clsStart.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Base Classes\clsTable.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Base Classes\clsTable.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Base Classes\clsUtilities.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Base Classes\clsUtilities.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Base Classes\DBConnection.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Base Classes\DBConnection.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\clsAttachment.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\clsAttachment.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\clsGFCSetup.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\clsGFCSetup.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\clsIFXPosting.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\clsIFXPosting.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\clsIFXSetup.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\clsIFXSetup.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\clsJournal.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\clsJournal.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\clsJVApproval.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\clsJVApproval.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\clsJVApprovalTemplate.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\clsJVApprovalTemplate.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\clsTemplateClasss.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\clsTemplateClasss.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\clsSystemForms.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\clsSystemForms.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\Custom_ChooseFromList.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\Custom_ChooseFromList.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\Setup.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\Setup.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Business Logics\WindowWrapper.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Business Logics\WindowWrapper.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Modules\modVariables.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Modules\modVariables.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Web References\WebReference\Reference.vb" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Web References\WebReference\Reference.vb">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="app.config" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="ClassDiagram1.cd" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Modules\vssver.scc" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Modules\vssver.scc">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="My Project\Application.myapp" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="My Project\Settings.settings" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Web References\WebReference\adaptorServiceResponse.datasource" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Web References\WebReference\adaptorServiceResponse.datasource">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Web References\WebReference\doIFXResponse.datasource" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Web References\WebReference\doIFXResponse.datasource">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Web References\WebReference\getBackEndStoredProcedureCallResponse.datasource" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Web References\WebReference\getBackEndStoredProcedureCallResponse.datasource">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Web References\WebReference\Reference.map" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Web References\WebReference\Reference.map">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="Web References\WebReference\UBSWebserviceDefinitions.wsdl" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\Web References\WebReference\UBSWebserviceDefinitions.wsdl">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="bin\Debug\XML Files\xml_OJAT.xml" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\bin\Debug\XML Files\xml_OJAT.xml">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="bin\Debug\XML Files\Menu.xml" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\bin\Debug\XML Files\Menu.xml">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="bin\Debug\XML Files\RemoveMenus.xml" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\bin\Debug\XML Files\RemoveMenus.xml">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="bin\Debug\XML Files\xml_IFXPosting.xml" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\bin\Debug\XML Files\xml_IFXPosting.xml">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="My Project\Resources.resx" Description="File successfully backed up as C:\20151007_BisB Inernal 1.0.39\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="BisB Integration" Source="BisB Integration.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="BisB Integration.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BisB Integration" Source="BisB Integration.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BisB Integration.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BisB Integration.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BisB Integration" Source="BisB Integration.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BisBIntegration
+</name>
+</assembly>
+<members>
+<member name="M:BisBIntegration.WebReference.UBSWebservice.#ctor">
+	<remarks/>
+</member><member name="E:BisBIntegration.WebReference.UBSWebservice.getBackEndStoredProcedureCallCompleted">
+	<remarks/>
+</member><member name="E:BisBIntegration.WebReference.UBSWebservice.adaptorServiceCompleted">
+	<remarks/>
+</member><member name="E:BisBIntegration.WebReference.UBSWebservice.doIFXCompleted">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.getBackEndStoredProcedureCall(BisBIntegration.WebReference.getBackEndStoredProcedureCall)">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.getBackEndStoredProcedureCallAsync(BisBIntegration.WebReference.getBackEndStoredProcedureCall)">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.getBackEndStoredProcedureCallAsync(BisBIntegration.WebReference.getBackEndStoredProcedureCall,System.Object)">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.adaptorService(BisBIntegration.WebReference.adaptorService)">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.adaptorServiceAsync(BisBIntegration.WebReference.adaptorService)">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.adaptorServiceAsync(BisBIntegration.WebReference.adaptorService,System.Object)">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.doIFX(BisBIntegration.WebReference.doIFX)">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.doIFXAsync(BisBIntegration.WebReference.doIFX)">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.doIFXAsync(BisBIntegration.WebReference.doIFX,System.Object)">
+	<remarks/>
+</member><member name="M:BisBIntegration.WebReference.UBSWebservice.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.UBSWebservice">
+	<remarks/>
+</member><member name="P:BisBIntegration.WebReference.getBackEndStoredProcedureCall.ifxMessage">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.getBackEndStoredProcedureCall">
+	<remarks/>
+</member><member name="P:BisBIntegration.WebReference.getBackEndStoredProcedureCallResponse.getBackEndStoredProcedureCallResult">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.getBackEndStoredProcedureCallResponse">
+	<remarks/>
+</member><member name="P:BisBIntegration.WebReference.adaptorService.ifxMessage">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.adaptorService">
+	<remarks/>
+</member><member name="P:BisBIntegration.WebReference.adaptorServiceResponse.adaptorServiceResult">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.adaptorServiceResponse">
+	<remarks/>
+</member><member name="P:BisBIntegration.WebReference.doIFX.ifxMessage">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.doIFX">
+	<remarks/>
+</member><member name="P:BisBIntegration.WebReference.doIFXResponse.doIFXResult">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.doIFXResponse">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.getBackEndStoredProcedureCallCompletedEventHandler">
+	<remarks/>
+</member><member name="P:BisBIntegration.WebReference.getBackEndStoredProcedureCallCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.getBackEndStoredProcedureCallCompletedEventArgs">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.adaptorServiceCompletedEventHandler">
+	<remarks/>
+</member><member name="P:BisBIntegration.WebReference.adaptorServiceCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.adaptorServiceCompletedEventArgs">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.doIFXCompletedEventHandler">
+	<remarks/>
+</member><member name="P:BisBIntegration.WebReference.doIFXCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:BisBIntegration.WebReference.doIFXCompletedEventArgs">
+	<remarks/>
+</member><member name="P:BisBIntegration.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BisBIntegration.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:BisBIntegration.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

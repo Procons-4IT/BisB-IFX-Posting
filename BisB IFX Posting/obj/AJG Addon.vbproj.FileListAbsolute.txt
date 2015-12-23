@@ -1,0 +1,48 @@
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\AJG Addon.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\AJGAddon.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\AJGAddon.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\AJG Addon.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Debug\AJG Addon.exe
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Debug\AJG Addon.pdb
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Debug\AJG Addon.xml
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\AJG Addon.exe
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\AJG Addon.xml
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Debug\AJG Addon.pdb
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Release\AJG Addon.exe
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Release\AJG Addon.pdb
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Release\AJG Addon.xml
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Release\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\bin\Release\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\AJG Addon.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\AJGAddon.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\AJGAddon.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\AJG Addon.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\AJG Addon.exe
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\AJG Addon.xml
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon\AJG Addon\obj\Release\AJG Addon.pdb
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Release\AJG Addon.exe
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Release\AJG Addon.xml
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Release\AJG Addon.pdb
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\bin\Debug\AJG Addon.exe
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\bin\Debug\AJG Addon.pdb
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\bin\Debug\AJG Addon.xml
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\AJG Addon.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\AJGAddon.frmReportViewer.resources
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\AJGAddon.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\AJG Addon.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\AJG Addon.exe
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\AJG Addon.xml
+G:\International Projects_SAP9.0\Procons-4IT\AJG Web Portal\SAP Addon_Web Order\AJG Addon\obj\Debug\AJG Addon.pdb

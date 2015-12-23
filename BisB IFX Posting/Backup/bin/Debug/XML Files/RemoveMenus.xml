@@ -1,0 +1,10 @@
+﻿<Application>
+  <Menus>
+    <action type="remove">
+      <Menu UniqueID="Z_mnu_IFX002"></Menu>
+      <Menu UniqueID="Z_mnu_IFX003"></Menu>
+      <menu UniqueID="Z_mnu_JVApp"></menu>
+      <menu UniqueID="Z_mnu_OJAT"></menu>
+    </action>
+  </Menus>
+</Application>
